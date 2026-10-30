@@ -107,7 +107,7 @@ docs/index.html
     <div class="section">
         <h2>Contact</h2>
         <p>Email: <a href="mailto:rsitti@odu.edu">rsitti@odu.edu</a></p>
-        <p>GitHub: <a href="https://github.com/R3xStar">github.com/R3xStar</a></p>
+        <p>GitHub: <a href="https://github.com/RexSitti">github.com/RexSitti</a></p>
         <p>Old Dominion University Faculty Page (if available)</p>
     </div>
 

@@ -121,8 +121,8 @@ American Economic Association • ASHEcon • Western Economic Association • M
 ---
 
 ## 📊 GitHub Overview
-![Rex’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3xStar&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=R3xStar&show_icons=true&layout=compact)
+![Rex’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexSitti&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=RexSitti&show_icons=true&layout=compact)
 
 ---
 
